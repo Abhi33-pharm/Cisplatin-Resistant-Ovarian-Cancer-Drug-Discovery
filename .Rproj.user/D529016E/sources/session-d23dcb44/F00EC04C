@@ -1,0 +1,26 @@
+{
+    "id": "F00EC04C",
+    "path": "~/Cis-platin/Cisplatin-Resistant-Ovarian-Cancer-Drug-Discovery/Scripts/Initial.R",
+    "project_path": "Scripts/Initial.R",
+    "type": "r_source",
+    "hash": "2183357921",
+    "contents": "",
+    "dirty": false,
+    "created": 1789103585355.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "3,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1789104129,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1789104129277,
+    "read_only": false,
+    "read_only_alternatives": []
+}

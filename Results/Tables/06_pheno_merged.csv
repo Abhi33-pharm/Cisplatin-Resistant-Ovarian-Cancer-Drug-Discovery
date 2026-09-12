@@ -1,0 +1,171 @@
+gsm,title,characteristics,cell_line,treatment,cell_line_matched,norm_key,Sample,Molecular Subtype,GI50
+GSM1160723,HeyA8-(1),"['cell line: HeyA8', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 1']",HeyA8,control,HeyA8,HEYA8,HeyA8,Mes,4.465e-05
+GSM1160724,HeyA8-(1)b,"['cell line: HeyA8', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 1']",HeyA8,control,HeyA8,HEYA8,HeyA8,Mes,4.465e-05
+GSM1160725,HeyA8-(2),"['cell line: HeyA8', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 1']",HeyA8,control,HeyA8,HEYA8,HeyA8,Mes,4.465e-05
+GSM1160726,HeyA8-(2)b,"['cell line: HeyA8', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 1']",HeyA8,control,HeyA8,HEYA8,HeyA8,Mes,4.465e-05
+GSM1160727,HeyA8-(3),"['cell line: HeyA8', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 1']",HeyA8,control,HeyA8,HEYA8,HeyA8,Mes,4.465e-05
+GSM1160728,HeyA8+(1),"['cell line: HeyA8', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 1']",HeyA8,cisplatin,HeyA8,HEYA8,HeyA8,Mes,4.465e-05
+GSM1160729,HeyA8+(3),"['cell line: HeyA8', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 1']",HeyA8,cisplatin,HeyA8,HEYA8,HeyA8,Mes,4.465e-05
+GSM1160730,HeyC2-(1),"['cell line: HeyC2', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 1']",HeyC2,control,HeyC2,HEYC2,HeyC2,Mes,1.319e-05
+GSM1160731,HeyC2-(2),"['cell line: HeyC2', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 1']",HeyC2,control,HeyC2,HEYC2,HeyC2,Mes,1.319e-05
+GSM1160732,HeyC2-(3),"['cell line: HeyC2', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 1']",HeyC2,control,HeyC2,HEYC2,HeyC2,Mes,1.319e-05
+GSM1160733,HeyC2+(1),"['cell line: HeyC2', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 1']",HeyC2,cisplatin,HeyC2,HEYC2,HeyC2,Mes,1.319e-05
+GSM1160734,HeyC2+(2),"['cell line: HeyC2', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 1']",HeyC2,cisplatin,HeyC2,HEYC2,HeyC2,Mes,1.319e-05
+GSM1160735,HeyC2+(3),"['cell line: HeyC2', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 1']",HeyC2,cisplatin,HeyC2,HEYC2,HeyC2,Mes,1.319e-05
+GSM1160736,A2780-(1),"['cell line: A2780', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 1']",A2780,control,A2780,A2780,A2780,Stem-A,2.91e-06
+GSM1160737,A2780-(2),"['cell line: A2780', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 1']",A2780,control,A2780,A2780,A2780,Stem-A,2.91e-06
+GSM1160738,A2780-(3),"['cell line: A2780', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 1']",A2780,control,A2780,A2780,A2780,Stem-A,2.91e-06
+GSM1160739,A2780+(1),"['cell line: A2780', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 1']",A2780,cisplatin,A2780,A2780,A2780,Stem-A,2.91e-06
+GSM1160740,A2780+(2),"['cell line: A2780', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 1']",A2780,cisplatin,A2780,A2780,A2780,Stem-A,2.91e-06
+GSM1160741,A2780+(3),"['cell line: A2780', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 1']",A2780,cisplatin,A2780,A2780,A2780,Stem-A,2.91e-06
+GSM1160742,OVCA420-(1),"['cell line: OVCA420', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 1']",OVCA420,control,OVCA420,OVCA420,OVCA 420,Stem-B,4.307e-05
+GSM1160743,OVCA420-(2),"['cell line: OVCA420', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 1']",OVCA420,control,OVCA420,OVCA420,OVCA 420,Stem-B,4.307e-05
+GSM1160744,OVCA420-(3),"['cell line: OVCA420', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 1']",OVCA420,control,OVCA420,OVCA420,OVCA 420,Stem-B,4.307e-05
+GSM1160745,OVCA420+(1),"['cell line: OVCA420', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 1']",OVCA420,cisplatin,OVCA420,OVCA420,OVCA 420,Stem-B,4.307e-05
+GSM1160746,OVCA420+(2),"['cell line: OVCA420', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 1']",OVCA420,cisplatin,OVCA420,OVCA420,OVCA 420,Stem-B,4.307e-05
+GSM1160747,OVCA420+(3),"['cell line: OVCA420', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 1']",OVCA420,cisplatin,OVCA420,OVCA420,OVCA 420,Stem-B,4.307e-05
+GSM1160748,OVCA429-(1),"['cell line: OVCA429', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 1']",OVCA429,control,OVCA429,OVCA429,OVCA 429,Epi-A,8.354e-05
+GSM1160749,OVCA429-(2),"['cell line: OVCA429', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 1']",OVCA429,control,OVCA429,OVCA429,OVCA 429,Epi-A,8.354e-05
+GSM1160750,OVCA429-(3),"['cell line: OVCA429', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 1']",OVCA429,control,OVCA429,OVCA429,OVCA 429,Epi-A,8.354e-05
+GSM1160751,OVCA429+(1),"['cell line: OVCA429', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 1']",OVCA429,cisplatin,OVCA429,OVCA429,OVCA 429,Epi-A,8.354e-05
+GSM1160752,OVCA429+(2),"['cell line: OVCA429', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 1']",OVCA429,cisplatin,OVCA429,OVCA429,OVCA 429,Epi-A,8.354e-05
+GSM1160753,OVCA429+(3),"['cell line: OVCA429', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 1']",OVCA429,cisplatin,OVCA429,OVCA429,OVCA 429,Epi-A,8.354e-05
+GSM1160754,PA-1-(1),"['cell line: PA-1', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 1']",PA-1,control,PA-1,PA1,PA-1,Stem-A,3.01e-06
+GSM1160755,PA-1-(2),"['cell line: PA-1', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 1']",PA-1,control,PA-1,PA1,PA-1,Stem-A,3.01e-06
+GSM1160756,PA-1-(3),"['cell line: PA-1', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 1']",PA-1,control,PA-1,PA1,PA-1,Stem-A,3.01e-06
+GSM1160757,PA-1+(1),"['cell line: PA-1', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 1']",PA-1,cisplatin,PA-1,PA1,PA-1,Stem-A,3.01e-06
+GSM1160758,PA-1+(2),"['cell line: PA-1', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 1']",PA-1,cisplatin,PA-1,PA1,PA-1,Stem-A,3.01e-06
+GSM1160759,PA-1+(3),"['cell line: PA-1', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 1']",PA-1,cisplatin,PA-1,PA1,PA-1,Stem-A,3.01e-06
+GSM1160760,TYK-nu-(1),"['cell line: TYK-nu', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 1']",TYK-nu,control,TYK-nu,TYKNU,TYK-nu,Mes,1.471e-05
+GSM1160761,TYK-nu-(2),"['cell line: TYK-nu', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 1']",TYK-nu,control,TYK-nu,TYKNU,TYK-nu,Mes,1.471e-05
+GSM1160762,TYK-nu-(3),"['cell line: TYK-nu', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 1']",TYK-nu,control,TYK-nu,TYKNU,TYK-nu,Mes,1.471e-05
+GSM1160763,TYK-nu+(1),"['cell line: TYK-nu', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 1']",TYK-nu,cisplatin,TYK-nu,TYKNU,TYK-nu,Mes,1.471e-05
+GSM1160764,TYK-nu+(2),"['cell line: TYK-nu', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 1']",TYK-nu,cisplatin,TYK-nu,TYKNU,TYK-nu,Mes,1.471e-05
+GSM1160765,TYK-nu+(3),"['cell line: TYK-nu', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 1']",TYK-nu,cisplatin,TYK-nu,TYKNU,TYK-nu,Mes,1.471e-05
+GSM1160766,CH1-(1),"['cell line: CH1', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 2']",CH1,control,CH1,CH1,CH1,Stem-A,1.45e-06
+GSM1160767,CH1-(2),"['cell line: CH1', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 2']",CH1,control,CH1,CH1,CH1,Stem-A,1.45e-06
+GSM1160768,CH1-(3),"['cell line: CH1', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 2']",CH1,control,CH1,CH1,CH1,Stem-A,1.45e-06
+GSM1160769,CH1+(1),"['cell line: CH1', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 2']",CH1,cisplatin,CH1,CH1,CH1,Stem-A,1.45e-06
+GSM1160770,CH1+(2),"['cell line: CH1', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 2']",CH1,cisplatin,CH1,CH1,CH1,Stem-A,1.45e-06
+GSM1160771,CH1+(3),"['cell line: CH1', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 2']",CH1,cisplatin,CH1,CH1,CH1,Stem-A,1.45e-06
+GSM1160772,OV90-(1),"['cell line: OV90', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 2']",OV90,control,OV90,OV90,OV90,Stem-B,7.9e-06
+GSM1160773,OV90-(2),"['cell line: OV90', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 2']",OV90,control,OV90,OV90,OV90,Stem-B,7.9e-06
+GSM1160774,OV90-(3),"['cell line: OV90', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 2']",OV90,control,OV90,OV90,OV90,Stem-B,7.9e-06
+GSM1160775,OV90+(1),"['cell line: OV90', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 2']",OV90,cisplatin,OV90,OV90,OV90,Stem-B,7.9e-06
+GSM1160776,OV90+(2),"['cell line: OV90', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 2']",OV90,cisplatin,OV90,OV90,OV90,Stem-B,7.9e-06
+GSM1160777,OV90+(3),"['cell line: OV90', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 2']",OV90,cisplatin,OV90,OV90,OV90,Stem-B,7.9e-06
+GSM1160778,FU-OV-1-(1),"['cell line: FU-OV-1', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 2']",FU-OV-1,control,FU-OV-1,FUOV1,FU-OV-1,Stem-A,1.141e-05
+GSM1160779,FU-OV-1-(2),"['cell line: FU-OV-1', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 2']",FU-OV-1,control,FU-OV-1,FUOV1,FU-OV-1,Stem-A,1.141e-05
+GSM1160780,FU-OV-1-(3),"['cell line: FU-OV-1', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 2']",FU-OV-1,control,FU-OV-1,FUOV1,FU-OV-1,Stem-A,1.141e-05
+GSM1160781,FU-OV-1+(1),"['cell line: FU-OV-1', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 2']",FU-OV-1,cisplatin,FU-OV-1,FUOV1,FU-OV-1,Stem-A,1.141e-05
+GSM1160782,FU-OV-1+(2),"['cell line: FU-OV-1', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 2']",FU-OV-1,cisplatin,FU-OV-1,FUOV1,FU-OV-1,Stem-A,1.141e-05
+GSM1160783,FU-OV-1+(3),"['cell line: FU-OV-1', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 2']",FU-OV-1,cisplatin,FU-OV-1,FUOV1,FU-OV-1,Stem-A,1.141e-05
+GSM1160784,A2008-(1),"['cell line: A2008', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 2']",A2008,control,A2008,A2008,A2008,Stem-B,4.86e-06
+GSM1160785,A2008-(2),"['cell line: A2008', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 2']",A2008,control,A2008,A2008,A2008,Stem-B,4.86e-06
+GSM1160786,A2008-(3),"['cell line: A2008', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 2']",A2008,control,A2008,A2008,A2008,Stem-B,4.86e-06
+GSM1160787,A2008+(1),"['cell line: A2008', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 2']",A2008,cisplatin,A2008,A2008,A2008,Stem-B,4.86e-06
+GSM1160788,A2008+(2),"['cell line: A2008', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 2']",A2008,cisplatin,A2008,A2008,A2008,Stem-B,4.86e-06
+GSM1160789,A2008+(3),"['cell line: A2008', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 2']",A2008,cisplatin,A2008,A2008,A2008,Stem-B,4.86e-06
+GSM1160790,DOV13-(1),"['cell line: DOV13', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 2']",DOV13,control,DOV13,DOV13,DOV 13,Mes,5.187e-05
+GSM1160791,DOV13-(1)b,"['cell line: DOV13', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 2']",DOV13,control,DOV13,DOV13,DOV 13,Mes,5.187e-05
+GSM1160792,DOV13-(2),"['cell line: DOV13', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 2']",DOV13,control,DOV13,DOV13,DOV 13,Mes,5.187e-05
+GSM1160793,DOV13-(2)b,"['cell line: DOV13', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 2']",DOV13,control,DOV13,DOV13,DOV 13,Mes,5.187e-05
+GSM1160794,DOV13-(3),"['cell line: DOV13', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 2']",DOV13,control,DOV13,DOV13,DOV 13,Mes,5.187e-05
+GSM1160795,DOV13+(1),"['cell line: DOV13', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 2']",DOV13,cisplatin,DOV13,DOV13,DOV 13,Mes,5.187e-05
+GSM1160796,DOV13+(2),"['cell line: DOV13', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 2']",DOV13,cisplatin,DOV13,DOV13,DOV 13,Mes,5.187e-05
+GSM1160797,DOV13+(3),"['cell line: DOV13', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 2']",DOV13,cisplatin,DOV13,DOV13,DOV 13,Mes,5.187e-05
+GSM1160798,OVCA433-(1),"['cell line: OVCA433', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 2']",OVCA433,control,OVCA433,OVCA433,OVCA 433,Epi-A,0.00020198
+GSM1160799,OVCA433-(2),"['cell line: OVCA433', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 2']",OVCA433,control,OVCA433,OVCA433,OVCA 433,Epi-A,0.00020198
+GSM1160800,OVCA433-(3),"['cell line: OVCA433', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 2']",OVCA433,control,OVCA433,OVCA433,OVCA 433,Epi-A,0.00020198
+GSM1160801,OVCA433+(1),"['cell line: OVCA433', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 2']",OVCA433,cisplatin,OVCA433,OVCA433,OVCA 433,Epi-A,0.00020198
+GSM1160802,OVCA433+(2),"['cell line: OVCA433', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 2']",OVCA433,cisplatin,OVCA433,OVCA433,OVCA 433,Epi-A,0.00020198
+GSM1160803,OVCA433+(3),"['cell line: OVCA433', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 2']",OVCA433,cisplatin,OVCA433,OVCA433,OVCA 433,Epi-A,0.00020198
+GSM1160804,OVCAR-10-(1),"['cell line: OVCAR-10', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 3']",OVCAR-10,control,OVCAR-10,OVCAR10,OVCAR-10,Stem-A,4.148e-05
+GSM1160805,OVCAR-10-(2),"['cell line: OVCAR-10', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 3']",OVCAR-10,control,OVCAR-10,OVCAR10,OVCAR-10,Stem-A,4.148e-05
+GSM1160806,OVCAR-10-(3),"['cell line: OVCAR-10', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 3']",OVCAR-10,control,OVCAR-10,OVCAR10,OVCAR-10,Stem-A,4.148e-05
+GSM1160807,OVCAR-10+(1),"['cell line: OVCAR-10', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 3']",OVCAR-10,cisplatin,OVCAR-10,OVCAR10,OVCAR-10,Stem-A,4.148e-05
+GSM1160808,OVCAR-10+(2),"['cell line: OVCAR-10', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 3']",OVCAR-10,cisplatin,OVCAR-10,OVCAR10,OVCAR-10,Stem-A,4.148e-05
+GSM1160809,OVCAR-10+(3),"['cell line: OVCAR-10', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 3']",OVCAR-10,cisplatin,OVCAR-10,OVCAR10,OVCAR-10,Stem-A,4.148e-05
+GSM1160810,DOV13B-(1),"['cell line: DOV13B', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 3']",DOV13B,control,DOV 13,DOV13,DOV 13,Mes,5.187e-05
+GSM1160811,DOV13B-(2),"['cell line: DOV13B', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 3']",DOV13B,control,DOV 13,DOV13,DOV 13,Mes,5.187e-05
+GSM1160812,DOV13B-(3),"['cell line: DOV13B', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 3']",DOV13B,control,DOV 13,DOV13,DOV 13,Mes,5.187e-05
+GSM1160813,DOV13B+(1),"['cell line: DOV13B', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 3']",DOV13B,cisplatin,DOV 13,DOV13,DOV 13,Mes,5.187e-05
+GSM1160814,DOV13B+(2),"['cell line: DOV13B', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 3']",DOV13B,cisplatin,DOV 13,DOV13,DOV 13,Mes,5.187e-05
+GSM1160815,DOV13B+(3),"['cell line: DOV13B', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 3']",DOV13B,cisplatin,DOV 13,DOV13,DOV 13,Mes,5.187e-05
+GSM1160816,C13-(1),"['cell line: C13', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 3']",C13,control,C13,C13,C13,Stem-B,4.713e-05
+GSM1160817,C13-(2),"['cell line: C13', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 3']",C13,control,C13,C13,C13,Stem-B,4.713e-05
+GSM1160818,C13-(3),"['cell line: C13', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 3']",C13,control,C13,C13,C13,Stem-B,4.713e-05
+GSM1160819,C13+(1),"['cell line: C13', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 3']",C13,cisplatin,C13,C13,C13,Stem-B,4.713e-05
+GSM1160820,C13+(2),"['cell line: C13', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 3']",C13,cisplatin,C13,C13,C13,Stem-B,4.713e-05
+GSM1160821,C13+(3),"['cell line: C13', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 3']",C13,cisplatin,C13,C13,C13,Stem-B,4.713e-05
+GSM1160822,IGROV-1-(1),"['cell line: IGROV-1', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 3']",IGROV-1,control,IGROV-1,IGROV1,IGROV-1,Stem-A,8.95e-06
+GSM1160823,IGROV-1-(2),"['cell line: IGROV-1', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 3']",IGROV-1,control,IGROV-1,IGROV1,IGROV-1,Stem-A,8.95e-06
+GSM1160824,IGROV-1-(3),"['cell line: IGROV-1', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 3']",IGROV-1,control,IGROV-1,IGROV1,IGROV-1,Stem-A,8.95e-06
+GSM1160825,IGROV-1+(1),"['cell line: IGROV-1', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 3']",IGROV-1,cisplatin,IGROV-1,IGROV1,IGROV-1,Stem-A,8.95e-06
+GSM1160826,IGROV-1+(2),"['cell line: IGROV-1', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 3']",IGROV-1,cisplatin,IGROV-1,IGROV1,IGROV-1,Stem-A,8.95e-06
+GSM1160827,IGROV-1+(3),"['cell line: IGROV-1', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 3']",IGROV-1,cisplatin,IGROV-1,IGROV1,IGROV-1,Stem-A,8.95e-06
+GSM1160828,OVCAR-8-(1),"['cell line: OVCAR-8', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 3']",OVCAR-8,control,OVCAR-8,OVCAR8,OVCAR-8,Epi-A,3.312e-05
+GSM1160829,OVCAR-8-(2),"['cell line: OVCAR-8', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 3']",OVCAR-8,control,OVCAR-8,OVCAR8,OVCAR-8,Epi-A,3.312e-05
+GSM1160830,OVCAR-8-(3),"['cell line: OVCAR-8', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 3']",OVCAR-8,control,OVCAR-8,OVCAR8,OVCAR-8,Epi-A,3.312e-05
+GSM1160831,OVCAR-8+(1),"['cell line: OVCAR-8', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 3']",OVCAR-8,cisplatin,OVCAR-8,OVCAR8,OVCAR-8,Epi-A,3.312e-05
+GSM1160832,OVCAR-8+(2),"['cell line: OVCAR-8', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 3']",OVCAR-8,cisplatin,OVCAR-8,OVCAR8,OVCAR-8,Epi-A,3.312e-05
+GSM1160833,OVCAR-8+(3),"['cell line: OVCAR-8', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 3']",OVCAR-8,cisplatin,OVCAR-8,OVCAR8,OVCAR-8,Epi-A,3.312e-05
+GSM1160834,M41(-),"['cell line: M41', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 5']",M41,control,M41,M41,,,
+GSM1160835,M41(+),"['cell line: M41', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 5']",M41,cisplatin,M41,M41,,,
+GSM1160836,A2780cisR(-),"['cell line: A2780cisR', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 4']",A2780cisR,control,A2780cisR,A2780CISR,,,
+GSM1160837,A2780cisR(+),"['cell line: A2780cisR', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 4']",A2780cisR,cisplatin,A2780cisR,A2780CISR,,,
+GSM1160838,ovary1847(-),"['cell line: ovary1847', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 4']",ovary1847,control,ovary1847,OVARY1847,,,
+GSM1160839,ovary1847(+),"['cell line: ovary1847', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 4']",ovary1847,cisplatin,ovary1847,OVARY1847,,,
+GSM1160840,Caov-2(-),"['cell line: Caov-2', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 4']",Caov-2,control,Caov-2,CAOV2,,,
+GSM1160841,Caov-2(+),"['cell line: Caov-2', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 4']",Caov-2,cisplatin,Caov-2,CAOV2,,,
+GSM1160842,Caov-3(-),"['cell line: Caov-3', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 4']",Caov-3,control,Caov-3,CAOV3,,,
+GSM1160843,Caov-3(+),"['cell line: Caov-3', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 4']",Caov-3,cisplatin,Caov-3,CAOV3,,,
+GSM1160844,Hey(-),"['cell line: Hey', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 5']",Hey,control,Hey,HEY,,,
+GSM1160846,JHOS-2(-),"['cell line: JHOS-2', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 4']",JHOS-2,control,JHOS-2,JHOS2,JHOS-2,Epi-A,0.00013479
+GSM1160847,JHOS-2(+),"['cell line: JHOS-2', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 4']",JHOS-2,cisplatin,JHOS-2,JHOS2,JHOS-2,Epi-A,0.00013479
+GSM1160848,JHOS-3(-),"['cell line: JHOS-3', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 5']",JHOS-3,control,JHOS-3,JHOS3,JHOS-3,Epi-B,4.143e-05
+GSM1160849,JHOS-3(+),"['cell line: JHOS-3', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 5']",JHOS-3,cisplatin,JHOS-3,JHOS3,JHOS-3,Epi-B,4.143e-05
+GSM1160850,OAW28(-),"['cell line: OAW28', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 5']",OAW28,control,OAW28,OAW28,OAW28,Mes,3.428e-05
+GSM1160851,OAW28(+),"['cell line: OAW28', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 5']",OAW28,cisplatin,OAW28,OAW28,OAW28,Mes,3.428e-05
+GSM1160852,OAW42(-),"['cell line: OAW42', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 4']",OAW42,control,OAW42,OAW42,OAW42,Stem-A,2.94e-06
+GSM1160853,OAW42(+),"['cell line: OAW42', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 4']",OAW42,cisplatin,OAW42,OAW42,OAW42,Stem-A,2.94e-06
+GSM1160854,DOV13A(-),"['cell line: DOV13A', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 5']",DOV13A,control,DOV 13,DOV13,DOV 13,Mes,5.187e-05
+GSM1160855,DOV13A(+),"['cell line: DOV13A', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 5']",DOV13A,cisplatin,DOV 13,DOV13,DOV 13,Mes,5.187e-05
+GSM1160856,OV56(-),"['cell line: OV56', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 5']",OV56,control,OV56,OV56,OV56,Mes,2.069e-05
+GSM1160857,OV56(+),"['cell line: OV56', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 5']",OV56,cisplatin,OV56,OV56,OV56,Mes,2.069e-05
+GSM1160858,OVCAR-3(+),"['cell line: OVCAR-3', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 5']",OVCAR-3,cisplatin,OVCAR-3,OVCAR3,,,
+GSM1160859,OVCA432(-),"['cell line: OVCA432', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 5']",OVCA432,control,OVCA432,OVCA432,OVCA 432,Epi-B,2.528e-05
+GSM1160860,OVCA432(+),"['cell line: OVCA432', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 5']",OVCA432,cisplatin,OVCA432,OVCA432,OVCA 432,Epi-B,2.528e-05
+GSM1160861,OVCA433b(-),"['cell line: OVCA433', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 4']",OVCA433,control,OVCA433,OVCA433,OVCA 433,Epi-A,0.00020198
+GSM1160862,OVCA433b(+),"['cell line: OVCA433', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 4']",OVCA433,cisplatin,OVCA433,OVCA433,OVCA 433,Epi-A,0.00020198
+GSM1160863,OVCAR-2(-),"['cell line: OVCAR-2', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 4']",OVCAR-2,control,OVCAR-2,OVCAR2,,,
+GSM1160864,OVCAR-2(+),"['cell line: OVCAR-2', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 4']",OVCAR-2,cisplatin,OVCAR-2,OVCAR2,,,
+GSM1160865,OVCAR-3(-),"['cell line: OVCAR-3', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 5']",OVCAR-3,control,OVCAR-3,OVCAR3,,,
+GSM1160866,OVCAR-5(-),"['cell line: OVCAR-5', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 5']",OVCAR-5,control,OVCAR-5,OVCAR5,,,
+GSM1160867,OVCAR-5(+),"['cell line: OVCAR-5', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 5']",OVCAR-5,cisplatin,OVCAR-5,OVCAR5,,,
+GSM1160868,OVK-18(-),"['cell line: OVK-18', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 5']",OVK-18,control,OVK-18,OVK18,,,
+GSM1160869,OVK-18(+),"['cell line: OVK-18', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 5']",OVK-18,cisplatin,OVK-18,OVK18,,,
+GSM1160870,PA-1(-),"['cell line: PA-1', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 5']",PA-1,control,PA-1,PA1,PA-1,Stem-A,3.01e-06
+GSM1160871,PEO1(-),"['cell line: PEO1', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 4']",PEO1,control,PEO1,PEO1,,,
+GSM1160872,PEO1(+),"['cell line: PEO1', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 4']",PEO1,cisplatin,PEO1,PEO1,,,
+GSM1160873,RMG-I(-),"['cell line: RMG-I', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 5']",RMG-I,control,RMG-I,RMGI,RMG-I,Epi-A,2.634e-05
+GSM1160874,RMG-I(+),"['cell line: RMG-I', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 5']",RMG-I,cisplatin,RMG-I,RMGI,RMG-I,Epi-A,2.634e-05
+GSM1160875,RMG-II(-),"['cell line: RMG-II', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 5']",RMG-II,control,RMG-II,RMGII,RMG-II,Epi-A,3.179e-05
+GSM1160876,RMG-II(+),"['cell line: RMG-II', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 5']",RMG-II,cisplatin,RMG-II,RMGII,RMG-II,Epi-A,3.179e-05
+GSM1160877,SKOV-4(-),"['cell line: SKOV-4', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 4']",SKOV-4,control,SKOV-4,SKOV4,,,
+GSM1160878,SKOV-4(+),"['cell line: SKOV-4', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 4']",SKOV-4,cisplatin,SKOV-4,SKOV4,,,
+GSM1160879,SKOV-3-(1),"['cell line: SKOV-3', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 5']",SKOV-3,control,SKOV-3,SKOV3,,,
+GSM1160880,SKOV-3-(2),"['cell line: SKOV-3', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 4']",SKOV-3,control,SKOV-3,SKOV3,,,
+GSM1160881,SKOV-3(+),"['cell line: SKOV-3', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 4']",SKOV-3,cisplatin,SKOV-3,SKOV3,,,
+GSM1160882,SKOV-6(-),"['cell line: SKOV-6', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 5']",SKOV-6,control,SKOV-6,SKOV6,,,
+GSM1160883,SKOV-6(+),"['cell line: SKOV-6', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 5']",SKOV-6,cisplatin,SKOV-6,SKOV6,,,
+GSM1160884,SKOV-8(-),"['cell line: SKOV-8', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 5']",SKOV-8,control,SKOV-8,SKOV8,,,
+GSM1160885,SKOV-8(+),"['cell line: SKOV-8', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 5']",SKOV-8,cisplatin,SKOV-8,SKOV8,,,
+GSM1160886,TAYA(-),"['cell line: TAYA', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 4']",TAYA,control,TAYA,TAYA,TAYA,Epi-A,2.869e-05
+GSM1160887,TAYA(+),"['cell line: TAYA', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 4']",TAYA,cisplatin,TAYA,TAYA,TAYA,Epi-A,2.869e-05
+GSM1160888,TOV-112D(-),"['cell line: TOV-112D', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 5']",TOV-112D,control,TOV-112D,TOV112D,TOV-112D,Stem-A,5.98e-06
+GSM1160889,TOV-112D(+),"['cell line: TOV-112D', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 5']",TOV-112D,cisplatin,TOV-112D,TOV112D,TOV-112D,Stem-A,5.98e-06
+GSM1160890,TOV-21G(-),"['cell line: TOV-21G', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 5']",TOV-21G,control,TOV-21G,TOV21G,,,
+GSM1160891,TOV-21G(+),"['cell line: TOV-21G', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 5']",TOV-21G,cisplatin,TOV-21G,TOV21G,,,
+GSM1160892,UWB1.289(-),"['cell line: UWB1.289', 'cell type: ovarian cancer cell line', 'treatment: none', 'batch: 5']",UWB1.289,control,UWB1.289,UWB1.289,UWB1.289,Epi-A,1.606e-05
+GSM1160893,UWB1.289(+),"['cell line: UWB1.289', 'cell type: ovarian cancer cell line', 'treatment: Cisplatin', 'batch: 5']",UWB1.289,cisplatin,UWB1.289,UWB1.289,UWB1.289,Epi-A,1.606e-05

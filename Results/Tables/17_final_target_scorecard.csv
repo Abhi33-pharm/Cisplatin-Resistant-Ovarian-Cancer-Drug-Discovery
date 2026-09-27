@@ -1,0 +1,3 @@
+gene,DEG_logFC,DEG_adj_p,survival_HR,survival_p,ensembl_id,druggability_score,has_defined_pocket,tractability_tiers,mean_dependency_score,specificity_label,specificity_score,n_known_drugs,survival_significance,essentiality_score,composite_score
+DLX5,-2.2889316666666657,0.7223490723059768,1.4018327016183856,0.024446767304811,ENSG00000105880,0,False,None found,-0.11039695432544928,Cancer enriched,0,0,1.6117785612643944,0.11039695432544928,0.65
+HCFC2,0.8861814333333324,0.7223490723059768,1.3622641734865537,0.0387801249587103,ENSG00000111727,0,False,None found,0.12596535281975796,Low cancer specificity,1,0,1.4113907958557943,-0.12596535281975796,0.35

@@ -1,7 +1,7 @@
 # Cisplatin-Resistant-Ovarian-Cancer-Drug-Discovery
 Finding the appropriate targets for cisplatin-resistant ovarian cancer patients.
 
-# Cisplatin Resistance Biomarker/Target Pipeline — 4 Stages
+# Cisplatin Resistance Biomarker/Target Pipeline — 5 Stages
 
 Run these in order, from the same working directory. Each stage reads what
 the previous one saved to `pipeline_outputs/`, and writes new files there —
@@ -13,7 +13,8 @@ pipeline/
 ├── stage2_deg_analysis.py           # DEGs, volcano plot, heatmap, boxplots
 ├── stage3_Cross_validation.py       # validate DEGs in independent GEO cohorts
 ├── stage4_tcga_survival.py          # TCGA-OV survival, KM curves, forest plot
-└── README.md                     # this file
+├── stage5_Target_prioritization.py  # Selecting the best target for molecular docking
+└── README.md # this file
 ```
 # Significance of each step
 
@@ -28,6 +29,9 @@ A single dataset can produce false positives from chance or dataset-specific qui
 
 Stage 4 — TCGA-OV survival validation
 Everything so far comes from cell lines — useful for mechanism, but a 'biomarker' has to mean something in actual patients. This stage tests whether your surviving genes are prognostic for real patient outcomes, which is what separates a cell-culture finding from a clinically meaningful one.
+
+Stage 5 - Target Prioritization
+After performing the survival analysis, the targets were downsized to one target to perform further analysis to find the lead compound.
 
 ## Before you start
 
